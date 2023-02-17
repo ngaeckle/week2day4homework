@@ -1,3 +1,6 @@
+
+# Turn the shopping cart program into an object oriented program
+
 class Cart():
     def __init__(self):
         self.inventory = []
